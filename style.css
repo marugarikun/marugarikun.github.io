@@ -447,7 +447,7 @@ th {
     }
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
     #head {
         max-width: 360px;
         min-height: 80px;
